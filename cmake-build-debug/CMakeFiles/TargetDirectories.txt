@@ -1,0 +1,5 @@
+C:/Users/niczk/OneDrive/Documents/studies/4sem/cpp/fractalDrawing/cmake-build-debug/CMakeFiles/fractalDrawing.dir
+C:/Users/niczk/OneDrive/Documents/studies/4sem/cpp/fractalDrawing/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/niczk/OneDrive/Documents/studies/4sem/cpp/fractalDrawing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/niczk/OneDrive/Documents/studies/4sem/cpp/fractalDrawing/cmake-build-debug/CMakeFiles/fractalDrawing_autogen_timestamp_deps.dir
+C:/Users/niczk/OneDrive/Documents/studies/4sem/cpp/fractalDrawing/cmake-build-debug/CMakeFiles/fractalDrawing_autogen.dir
