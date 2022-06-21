@@ -5,7 +5,7 @@
 This is a simple fractal drawing app developed as a project for the C++ course at AGH UST Computer Science 2021/22, which enables the user to draw one of the fractals from the given set:
 
 - Julia Set - $z^2 + c$, with $c$ - parameter given by the user
-- Julia Set - animated version $z^2 + \exp{ia}$ where $a \in [0, 2\pi]$ and $r$ is a parameter given by the user
+- Julia Set - animated version $z^2 + \exp{ia}$ where $a \in [0, 2\pi]$ and $r$ is a radius parameter given by the user
 - Newton's Fractal - one simple case: $z^3 - 1$
 - Mandelbrot Set
 
